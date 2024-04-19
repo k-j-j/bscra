@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bscra/static/css/main.a23e702e.css",
+    "main.js": "/bscra/static/js/main.a121e000.js",
+    "static/js/453.dee08a55.chunk.js": "/bscra/static/js/453.dee08a55.chunk.js",
+    "static/media/back.jpg": "/bscra/static/media/back.57bf48fd20e701e66d47.jpg",
+    "index.html": "/bscra/index.html",
+    "main.a23e702e.css.map": "/bscra/static/css/main.a23e702e.css.map",
+    "main.a121e000.js.map": "/bscra/static/js/main.a121e000.js.map",
+    "453.dee08a55.chunk.js.map": "/bscra/static/js/453.dee08a55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23e702e.css",
+    "static/js/main.a121e000.js"
+  ]
+}
